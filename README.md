@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Mohamed+Emad+Helmy+Hassan;ASIC+Physical+Design+Engineer;Research+Assistant+%40+Nile+University;RTL-to-GDSII+%7C+Digital+Verification+%7C+FPGA)](https://github.com/MohamedEmad34)
 
+### ASIC Physical Design Engineer · Research Assistant @ Nile University · Cairo, Egypt
+
 [![Profile Views](https://komarev.com/ghpvc/?username=MohamedEmad34&label=Profile+Views&color=00B4D8&style=flat-square)](https://github.com/MohamedEmad34)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-emad-578039241)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me632453@gmail.com)
@@ -14,7 +16,7 @@
 
 I'm an **ASIC Physical Design Engineer** and **Research Assistant @ Nile University**, specializing in the complete **RTL-to-GDSII** implementation flow using both industry-standard and open-source EDA tools.
 
-- 🔬 **Research Assistant @ Nile University** — Working on advanced physical design and digital systems research
+- 🔬 **Research Assistant @ Nile University** — Conducting research in ASIC Physical Design and digital systems; supporting lab work, coursework, and RTL-to-GDSII educational content
 - ⚙️ Experienced in **timing closure**, **power analysis**, **physical verification (DRC/LVS)**, and **EDA scripting**
 - 🧪 Skilled in **Digital Verification** using UVM and SystemVerilog
 - 💡 Passionate about **open-source silicon**, **FPGA prototyping**, and **microelectronics education**
@@ -56,6 +58,19 @@ I'm an **ASIC Physical Design Engineer** and **Research Assistant @ Nile Univers
 
 ![TCL Scripting](https://img.shields.io/badge/TCL_Scripting-0EA5E9?style=for-the-badge&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tools & Tech |
+|--------|-------------|--------------|
+| **RTL-to-GDS: Low-Power Multi-Clock Digital System** | Full RTL-to-GDSII implementation of a configurable multi-clock system with low-power techniques including clock gating and domain crossing synchronizers | Verilog · Synopsys DC · ICC2 · PrimeTime |
+| **UART Communication System** | Complete digital system integrating ALU, Register File, FIFO, Clock Divider, Clock Gating, CDC Synchronizers, Main Controller, and UART TX/RX modules | Verilog · SystemVerilog · VCS |
+| **Single-Cycle 32-bit RISC-V Processor** | RISC-V core implementing 12 instructions to compute Fibonacci series summation. Modules: ALU, Register File, PC, Instruction/Data Memory, Control Unit — synthesized on FPGA | Verilog · Vivado · FPGA |
+| **Sequential 8×8 Multiplier — ASIC Implementation** | RTL design and full ASIC implementation flow for a sequential 8×8 multiplier with synthesis, placement, routing, and signoff | Verilog · Synopsys DC · ICC2 |
+| **FIR Filter — Transposed Structure** | 50th-order Low-Pass FIR filter designed with MATLAB Hamming windowing method, validated in simulation, and implemented in Verilog HDL | MATLAB · Verilog · VCS |
+| **UART Transmitter & Receiver** | Standalone UART TX/RX modules with configurable baud rate, parity checking, and full simulation testbench | Verilog · QuestaSim |
 
 ---
 
