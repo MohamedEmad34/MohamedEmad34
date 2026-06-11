@@ -12,14 +12,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
+I'm an Electronics & Communications Engineer (ranked 4rd / 90.3% — Excellent with Honors) specializing in ASIC Physical Design and Digital Verification. My work spans the complete RTL-to-GDSII flow using both industry-standard tools (Synopsys Design Compiler, ICC2) and open-source EDA (LibreLane, OpenROAD, Sky130 PDK).
 
-I'm an **ASIC Physical Design Engineer** and **Research Assistant @ Nile University**, specializing in the complete **RTL-to-GDSII** implementation flow using both industry-standard and open-source EDA tools.
+Research Assistant @ NU — Conducting research in ASIC Physical Design and digital systems; supporting lab work, coursework, and RTL-to-GDSII educational content
+ASIC Physical Design Intern @ Si-Vision Academy —	Executed full RTL-to-GDSII physical implementation flows using OpenLane and Sky130 PDK; performed floorplanning, Placement, CTS, and Timing Closure to meet design constraints
 
-- 🔬 **Research Assistant @ Nile University** — Conducting research in ASIC Physical Design and digital systems; supporting lab work, coursework, and RTL-to-GDSII educational content
-- ⚙️ Experienced in **timing closure**, **power analysis**, **physical verification (DRC/LVS)**, and **EDA scripting**
-- 🧪 Skilled in **Digital Verification** using UVM and SystemVerilog
-- 💡 Passionate about **open-source silicon**, **FPGA prototyping**, and **microelectronics education**
+ASIC Diploma @ NajahNow  — Performed synthesis with Synopsys Design Compiler and PnR using IC Compiler II; worked with the PnR team to deliver GDS files using RTL-to-GDS flow; conducted post-layout STA using Synopsys PrimeTime.
+
+Passionate about timing closure, EDA automation, physical verification, and open-source silicon.
 
 ---
 
