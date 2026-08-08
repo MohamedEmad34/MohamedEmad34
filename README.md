@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Mohamed+Emad+Helmy+Hassan;ASIC+Physical+Design+Engineer;Research+Assistant+%40+Nile+University;RTL-to-GDSII+%7C+Digital+Verification+%7C+FPGA)](https://github.com/MohamedEmad34)
 
-### ASIC Physical Design Engineer · Research Assistant @ Nile University · Cairo, Egypt
+### ASIC Physical Design Engineer | Open to Work | RTL-to-GDSII | Synopsys ICC2 | OpenROAD | Sky130 PDK
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MohamedEmad34&label=Profile+Views&color=00B4D8&style=flat-square)](https://github.com/MohamedEmad34)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-emad-578039241)
