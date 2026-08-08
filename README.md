@@ -13,9 +13,9 @@
 ---
 
 ##  About Me
-I'm an Electronics & Communications Engineer (ranked 4rd / 90.3% — Excellent with Honors) specializing in ASIC Physical Design and Digital Verification. My work spans the complete RTL-to-GDSII flow using both industry-standard tools (Synopsys Design Compiler, ICC2) and open-source EDA (LibreLane, OpenROAD, Sky130 PDK).
+I'm an Electronics & Communications Engineer (ranked 4th / 90.3% — Excellent with Honors) specializing in ASIC Physical Design and Digital Verification. My work spans the complete RTL-to-GDSII flow using both industry-standard tools (Synopsys Design Compiler, ICC2) and open-source EDA (LibreLane, OpenROAD, Sky130 PDK).
 
-* Research Assistant @ NU — Conducting research in ASIC Physical Design and digital systems; supporting lab work, coursework, and RTL-to-GDSII educational content
+* Digital Design & FPGA Intern @ STMicroelectronics — Architected and implemented the convolution engine for an SNN accelerator project from specification to RTL, optimizing the design in Verilog for high-frequency execution on Virtex UltraScale+ FPGAs 
 * ASIC Physical Design Intern @ Si-Vision Academy —	Executed full RTL-to-GDSII physical implementation flows using OpenLane and Sky130 PDK; performed floorplanning, Placement, CTS, and Timing Closure to meet design constraints
 
 * ASIC Diploma @ NajahNow  — Performed synthesis with Synopsys Design Compiler and PnR using IC Compiler II; worked with the PnR team to deliver GDS files using RTL-to-GDS flow; conducted post-layout STA using Synopsys PrimeTime.
