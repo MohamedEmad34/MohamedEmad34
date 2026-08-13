@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Mohamed+Emad+Helmy+Hassan;ASIC+Physical+Design+Engineer;Open+to+Work+%40;RTL-to-GDSII+%7C+Digital+Verification+%7C+FPGA)](https://github.com/MohamedEmad34)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Mohamed+Emad+Helmy+Hassan;ASIC+Physical+Design+Engineer;Open+to+Work;RTL-to-GDSII+%7C+Digital+Verification+%7C+FPGA)](https://github.com/MohamedEmad34)
 
 ### ASIC Physical Design Engineer · Trainee @ Si-Vision Academy · Cairo, Egypt
 
